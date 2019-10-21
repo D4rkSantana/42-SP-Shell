@@ -1,0 +1,7 @@
+Credentials cache: API:1424400
+        Principal: esilva-s@42SP.ORG.BR
+
+  Issued                Expires               Principal
+Oct  1 18:20:00 2019  Oct  2 04:20:00 2019  krbtgt/42SP.ORG.BR@42SP.ORG.BR
+Oct  1 18:20:00 2019  Oct  2 04:20:00 2019  HTTP/student-storage.42sp.org.br@42SP.ORG.BR
+Oct  1 18:36:31 2019  Oct  2 04:20:00 2019  host/vogsphere.42sp.org.br@42SP.ORG.BR
